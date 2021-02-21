@@ -1,4 +1,5 @@
-## Hey 👋, This is Vishal patil
+<h1 align="center"> नमस्ते 👋, I'm Vishal Patil</h1>
+<h3 align="left">About me</h3>
 <p align='left'>I am a graduate student from NDMVP College of Engineering ,Nashik specializing in Information Technology. I am looking for full-time opportunities.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1-EDsLAxNrC2xQjjbS8KZrvNlvWG6p8zH/view?usp=sharing?usp=sharing ' target=_blank><u>here</u>.</a></p>
 
 
